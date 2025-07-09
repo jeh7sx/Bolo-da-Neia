@@ -49,12 +49,12 @@ main {
 }
 
 .button img {
-	max-height: 4vh;
+	max-height: 2.5vh;
 	margin-right: 2vh;
 }
 
 .button #email{
-	max-height: 3vh;
+	max-height: 2vh;
 }
 
 #nil{
